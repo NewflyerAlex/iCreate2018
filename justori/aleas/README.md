@@ -26,21 +26,22 @@ Le Fabularium est un endroit où l'on raconte des histoires. En lançant cette a
 
 ## Instructions de génération de l'application
 
-1.Executer le programme avec processing.
+- Executer le programme avec processing.
 
 ## Instructions d'exécution
 
 1. Charger la configuration avec la touche 'L'.
-  - On peut recalibrer les paneaux avec la touche 'C'
+    - On peut recalibrer les paneaux avec la touche 'C'
 2. Lancer l'application Android.
-  1. Regler l'IP de l'application sur l'IP et le port de l'ordinateur executant le programme.
-  2. Activer la transmission des données de la boussole.
+    1. Regler l'IP de l'application sur l'IP et le port de l'ordinateur executant le programme.
+    2. Activer la transmission des données de la boussole.
 3. Fixer le téléphone Android.
 4. Faite bouger le téléphone pour lancer l'histoire.
 
 ## Note
 
 L'histoire raconté se reset automatiquement au bout de plusieurs secondes d'inactivité.
+
 *Certains fichiers ressources n'ont pas été inclu pour des raisons de taille.*
 Il est en effet nécessaire d'inclure des vidéo au format mp4, les vidéo en question doivent avoir une taille de 600/600px.
 Il est possible de modifier les noms de fichiers vidéo ou des images au sein du fichier sketch_alea.pde
